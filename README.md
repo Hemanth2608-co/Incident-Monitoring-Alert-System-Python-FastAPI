@@ -1,10 +1,10 @@
-🚨 Incident Monitoring & Alert System
-Python • FastAPI • SQLite • Background Worker • Docker
+ Incident Monitoring & Alert System
+Python • FastAPI •  Background Worker • Docker
 
 A production-style incident monitoring system that ingests system events (CPU, memory, packet loss, HTTP 5xx), detects anomalies, auto-creates incidents, and exposes APIs to view & resolve them.
 Inspired by the internal monitoring tools used at companies like Google, AWS, and Netflix.
 
-⭐ Features
+ Features
 
 Event ingestion API (/api/ingest)
 
